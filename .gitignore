@@ -1,0 +1,9 @@
+**/[Bb]in/*
+**/[Oo]bj/*
+**/[Dd]ebug/*
+**/[Rr]elease/*
+
+**/.vscode/*
+**/.idea/*
+
+*.config
